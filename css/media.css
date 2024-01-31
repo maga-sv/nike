@@ -1,0 +1,12 @@
+@media (max-width: 734px) {
+    .cards {
+        justify-content: space-around;
+    }
+}
+
+@media (max-width: 412px) {
+    .nav {
+        justify-content: space-around;
+        row-gap: 10px;
+    }
+}
